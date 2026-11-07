@@ -1,5 +1,5 @@
 > Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
-:wq
+
 `- [Yourname](your github profile url)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
@@ -1212,6 +1212,4 @@ ttps://github.com/RanjbarAli)
 - [amirhirad farajzadeh](https://github.com/hiradfz):runner:
 - [Artin khodayari](https://github.com/Artin-khodayari)
 - [HESAM](https://github.com/hnefamm17)💙
-fssdfdsfdfcfffffffffffffffffffff
-:wq
 
