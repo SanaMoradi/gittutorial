@@ -1,9 +1,5 @@
 > Note: It's better to add your name somewhere in the middle, and not at the beginning nor at the end!
-
-> نکته: بهتره اسمتون رو یه جایی وسط لیست اضافه کنین و نه دقیقا اول یا آخر لیست
-
-This is a repo for testing your git abilities. try to add your name to this file
-
+:wq
 `- [Yourname](your github profile url)`
 
 feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed:
@@ -150,7 +146,10 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Kavian Sherkatfar](https://github.com/kavianpcx)
 - [Mersad Mostofian](https://github.com/Mersad-Mostofian)🐋
 - [Saman Mosallanezhad](https://github.com/SamanMosalla)❤️💻
-- [Ali Ranjbar Jelodar ❤️💻](https://github.com/RanjbarAli)
+- [Ali Ranjbar Jelodar ❤️💻](h
+
+
+ttps://github.com/RanjbarAli)
 - [Amirhossein Najafi](https://github.com/AmirHossein-Najafi82)
 - [Alireza Ranjbar](https://github.com/gogolibox)
 - [EhSaN MoRaDi](https://github.com/ehsanm0radi) 🤖💻🍕
@@ -1212,7 +1211,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mani Ebrahimi :computer: :video_game:](https://github.com/Mrcode-10) (Thanks for teaching! ❤️)
 - [amirhirad farajzadeh](https://github.com/hiradfz):runner:
 - [Artin khodayari](https://github.com/Artin-khodayari)
-- [HESAM](https://github.com/hnesamm17)💙
-- zizi salmani
-- [Mehdi](https://github.com/mehdi-akb) Thanks Jadi
-- [Sahar](https://github.com/saharl) (Thanks to the best teacher in the world***)
+- [HESAM](https://github.com/hnefamm17)💙
+fssdfdsfdfcfffffffffffffffffffff
+:wq
+
